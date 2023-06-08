@@ -1,0 +1,2 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="go.fsdktempv2.fsdktempv2">
+<uses-sdk android:minSdkVersion="15"/></manifest>
